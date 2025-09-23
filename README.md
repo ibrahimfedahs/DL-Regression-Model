@@ -39,11 +39,10 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
+### Name:ibrahim fedah s
 
-### Register Number:
-NAME:ibrahim fedah s
-REG.NO:212223240056
+### Register Number:212223240056
+
 ```python
 import torch
 import torch.nn as nn
